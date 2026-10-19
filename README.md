@@ -1,2 +1,21 @@
-# Deep-learning-based-mobile-app-for-plant-disease-detection-and-treatment
-The mobile app detects cotton, maize and potato plant's disease by leaf image through deep learning techniques and suggests according remedies if disease is detected.
+<<<<<<< HEAD
+# Plant_Disease
+Plant Disease detection and give cure of the disease fyp
+=======
+# plant_desease
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 697c577 (Initial commit)
